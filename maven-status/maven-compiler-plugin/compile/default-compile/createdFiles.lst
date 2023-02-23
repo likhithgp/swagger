@@ -1,0 +1,8 @@
+com/example/swaggerfinal/dao/BookRepo.class
+com/example/swaggerfinal/controller/BookController.class
+com/example/swaggerfinal/model/Book.class
+com/example/swaggerfinal/SwaggerFinalApplication.class
+com/example/swaggerfinal/service/BookServiceImpl.class
+com/example/swaggerfinal/config/BookConfig.class
+com/example/swaggerfinal/service/BookService.class
+BookConfig.class
